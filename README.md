@@ -1,7 +1,11 @@
-<h1>Trabalho T2 de POO 👨‍💻👩‍💻 </h1> 
+< h1 > Trabalho T2 de POO 👨‍💻👩‍💻 </ h1 > 
   
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/> 
-   <br><br>  
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF00FF&height=120&section=header"/>
+
+
+
+  
+ <br><br>  
   
     
   
@@ -48,5 +52,6 @@
   
 </li>  
   
-</ul>  
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+</ul>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF00FF&height=120&section=header"/>
