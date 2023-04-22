@@ -43,7 +43,7 @@ Este repositório contêm problemas lógicos, resolvidos na linguagem <a href="h
   
 <li>  
   
-<a href="https://github.com/Julia-maria56" target="_blank" rel="external">Júlia María</a>  
+<a href="https://github.com/Julia-maria56" target="_blank" rel="external">Júlia Maria</a>  
   
 </li>  
   
