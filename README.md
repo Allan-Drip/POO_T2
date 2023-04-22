@@ -27,7 +27,7 @@
  <br>  
  
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
-Este repositório contêm problemas lógicos, resolvidos na linguagem <a href="https://tecnoblog.net/responde/o-que-e-java-guia-para-iniciantes/" target="_blank" rel="external">JAVA</a>, na disciplina de programação orientada a objetos (POO), no Instituto Federal do Ceará (IFCE), ministrada pelo professor <a href="https://github.com/rogermsarmento" target="_blank" rel="external">Roger Sarmento</a>.  
+Este repositório contém problemas lógicos, resolvidos na linguagem <a href="https://tecnoblog.net/responde/o-que-e-java-guia-para-iniciantes/" target="_blank" rel="external">JAVA</a>. Ele foi feito para abrigar a entrega do segundo trabalho da primeira etapa da disciplina de Programação Orientada a Objetos (POO), no Instituto Federal do Ceará (IFCE), ministrada pelo professor <a href="https://github.com/rogermsarmento" target="_blank" rel="external">Roger Sarmento</a>.
   
     
   
