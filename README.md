@@ -5,7 +5,7 @@
 
 
   
- <br><br>  
+
   
     
   
@@ -19,20 +19,15 @@
   
   
   
+![t2](https://user-images.githubusercontent.com/125198189/233805830-aaa826c5-633a-412a-9b6f-7d77e9416c87.png)
+
   
-![Beige Simple Elegant Creative Portfolio Slide Presentation ](https://user-images.githubusercontent.com/125198189/230688762-3d400e6f-5f27-41b6-86bb-d6fc1231e487.gif) 
   
-  
-  
- </div>  
-  
-    
-  
+ </div> 
  <br>  
-  
-  
- -------------------------------------------------------------------------------------------------------------------------------------------------------- 
- Este repositório contêm problemas lógicos, resolvidos na linguagem <a href="https://tecnoblog.net/responde/o-que-e-java-guia-para-iniciantes/" target="_blank" rel="external">JAVA</a><br> Na disciplina de programação orientada a objetos (POO), no Instituto Federal do Ceará (IFCE), ministrada pelo professor <a href="https://github.com/rogermsarmento" target="_blank" rel="external">Roger Sarmento</a>.  
+ 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Este repositório contém problemas lógicos, resolvidos na linguagem <a href="https://tecnoblog.net/responde/o-que-e-java-guia-para-iniciantes/" target="_blank" rel="external">JAVA</a>. Ele foi feito para abrigar a entrega do segundo trabalho da primeira etapa da disciplina de Programação Orientada a Objetos (POO), no Instituto Federal do Ceará (IFCE), ministrada pelo professor <a href="https://github.com/rogermsarmento" target="_blank" rel="external">Roger Sarmento</a>.
   
     
   
@@ -48,10 +43,10 @@
   
 <li>  
   
-<a href="https://github.com/Julia-maria56" target="_blank" rel="external">Júlia María</a>  
+<a href="https://github.com/Julia-maria56" target="_blank" rel="external">Júlia Maria</a>  
   
 </li>  
   
 </ul>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF00FF&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF00FF&height=120&section=footer"/>

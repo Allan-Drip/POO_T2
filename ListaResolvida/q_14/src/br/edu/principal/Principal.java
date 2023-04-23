@@ -1,41 +1,41 @@
-package br.edu.principal; 
- import java.util.Scanner; 
-  
+package br.edu.principal;
+import java.util.Scanner; 
+
 public class Principal { 
 
-public static void main(String[] args) { 
-Scanner sc = new Scanner(System.in);
-Double sal,novosal,boni=(double) 0;
-int aux= 0;
-
-System.out.print("Digite seu Sal�rio: ");
-sal = sc.nextDouble();
+     public static void main(String[] args) {
+    	 
+    	 System.out.println("********************************************************************");
+    	 System.out.println("Salário de um funcionário acrescido de bonificação e auxílio-escola");
+    	 System.out.print("********************************************************************\n");
 
 
-    if(sal <= 500){
-boni = (sal*0.05)+sal;   
-    }
-    
-  if(sal > 500 && sal <=1200){
-boni = (sal*0.12)+sal;
+    	 Scanner sc = new Scanner(System.in);
+    	 double sal, novosal, boni = 0, aux = 0;
 
+    	 System.out.println("Digite seu salário: ");
+    	 sal = sc.nextDouble();
+
+    	 if (sal <= 500) {
+    		 boni = sal * 0.05;
+    		 System.out.println("Bonificação de 5%: R$ " + boni);
+    	 }
+    	 else if (sal <= 1200) {
+    		 boni = sal * 0.12;
+    		 System.out.println("Bonificação de 12%: R$ " + boni);
+    	 }
+
+    	 if (sal <= 600) {
+    		 aux = 150.0;
+    		 System.out.println("Auxílio-escola de R$ 150,00");
+    	 }
+    	 else {
+    		 aux = 100.0;
+    		 System.out.println("Auxílio-escola de R$ 100,00");
+    	 }
+
+    	 novosal = sal + boni + aux;
+    	 System.out.println("O novo salário é: R$ " + novosal);
+     }
 }
-    
-    if(sal > 1200){
-    boni = 0+sal;
-   
- }
 
-if (sal <= 600){
-aux =  150;
-
-}
-
-if (sal > 600){
-aux = 100;
-
-}
-novosal = boni + aux;
-System.out.println("O novo sal�rio �:"+novosal);
-}
-}
